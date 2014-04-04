@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Library/SSStateManager/Scripts/TutorialManager/readme.txt">
+    <Files>
+      <File FileName="Assets/Library/SSStateManager/Demo/Scripts/SceneA.cs" Line="53" Column="26" />
+      <File FileName="Assets/Library/SSStateManager/Demo/Scripts/SceneB.cs" Line="4" Column="20" />
+      <File FileName="Assets/Library/SSStateManager/Scripts/SSState.cs" Line="14" Column="2" />
+      <File FileName="Assets/Library/SSStateManager/Scripts/TutorialManager/readme.txt" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
